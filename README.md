@@ -57,16 +57,13 @@ type microkernel = {
 
 Running the `ocaml_to_md.py` script will generate a `type.md` file with a Markdown representation of these types. Open `type.md` in VSCode and use the Markmap extension to view a mind map of your OCaml types.
 
-![alt text](./screenshots/image-full.png)
+![alt text](image-full.png)
 
 We can easily expand/un-expand the map. 
 
-![alt text](./screenshots/image-unexpanded.png)
+![alt text](image-unexpanded.png)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This version of the README file provides a clearer structure and more detailed instructions for users.
