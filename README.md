@@ -15,7 +15,7 @@ This repository provides a tool to convert OCaml types to a Markdown format that
    - Create a separate file named `type.ml` to store your OCaml types.
 
 3. **Generate Markdown File**
-   - Run the `ocaml_to_md.py` script. This script will read the `type.ml` file and generate a corresponding `type.md` file.
+   - Run the `ocaml_to_md.py` script. This script will read the `types.ml` file and generate a corresponding `type.md` file.
    - You can then open the `type.md` file in VSCode and use the Markmap extension to visualize the types.
 
 ## Example
