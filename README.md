@@ -63,7 +63,4 @@ We can easily expand/un-expand the map.
 
 ![alt text](image-unexpanded.png)
 
-## License
 
-
----
